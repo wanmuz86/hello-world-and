@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Holla mundo</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_cell">Enter Cell</string>
+
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+</resources>

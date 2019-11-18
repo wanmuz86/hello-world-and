@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="About Us" android:id="@+id/about_us" android:icon="@drawable/ic_action_name" app:showAsAction="always" android:orderInCategory="100"/>
+    <item android:title="Send Email" android:id="@+id/email_us" android:orderInCategory="101"/>
+    <item android:title="Call Us" android:id="@+id/call_us" android:orderInCategory="102"/>
+    <item android:title="Exit" android:id="@+id/exit" android:orderInCategory="103"/>
+</menu>

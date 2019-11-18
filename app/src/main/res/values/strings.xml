@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_cell">Enter Cell</string>
+
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="send_another_page">Send Another Page</string>
+    <string name="press_back">Press back</string>
+    <string name="title_activity_forth">ForthActivity</string>
+    <string-array name="cities">
+        <item>Kuala Lumpur</item>
+        <item>Shah Alam</item>
+        <item>Bangsar</item>
+        <item>Petaling Jaya</item>
+        <item>Ipoh</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_date">Open Date</string>
+</resources>

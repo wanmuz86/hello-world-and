@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send">Hantar</string>
+    <string name="message">Mesej</string>
+    <string name="enter_cell">No Telefon</string>
+</resources>
